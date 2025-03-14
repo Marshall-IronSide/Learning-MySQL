@@ -64,7 +64,7 @@ Ensure you have the following installed:
 ## 📝 How to Use This Repository  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_MYSQL_REPO.git
+   https://github.com/Marshall-IronSide/Learning-MySQL.git
    ```
 2. Follow the setup instructions to install **MySQL** & configure your database.
 3. Explore different **SQL scripts** under the `queries/` folder.
